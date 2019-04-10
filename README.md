@@ -10,3 +10,5 @@ mensagemErro: mensagem de erro
 Comentado ObterUsuario()
 
 proxima implementação
+
+https://randomuser.me/documentation
